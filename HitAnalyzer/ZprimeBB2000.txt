@@ -1,0 +1,1 @@
+root://t3dcachedb.psi.ch:1094//pnfs/psi.ch/cms/trivcat/store/user/thaarres/bTagHits/ZprimeToBBbar_M_2000/ZprimeToBBbar_M_2000_TuneCUETP8M1_13TeV_pythia8_GEN-SIM-DIGI-RECO/180410_061733/0000/ 
